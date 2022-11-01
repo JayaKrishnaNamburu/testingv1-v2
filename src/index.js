@@ -7,6 +7,7 @@ const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
 /* Change from commit 1 */
+/* Change from commit 2 */
 
 root.render(
   <StrictMode>
