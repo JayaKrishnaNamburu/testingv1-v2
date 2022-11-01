@@ -8,6 +8,7 @@ const root = createRoot(rootElement);
 
 /* Change from commit 1 */
 /* Change from commit 2 */
+/* Change from commit 3 */
 
 root.render(
   <StrictMode>
