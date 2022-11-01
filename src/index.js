@@ -6,6 +6,8 @@ import App from "./App";
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);
 
+/* Change from commit 1 */
+
 root.render(
   <StrictMode>
     <App />
