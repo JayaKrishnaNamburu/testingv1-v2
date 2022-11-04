@@ -8,6 +8,8 @@ const root = createRoot(rootElement);
 
 /* Main removing all changes */
 
+/* Gradier commit 1 */
+
 root.render(
   <StrictMode>
     <App />
